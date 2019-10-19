@@ -59,7 +59,7 @@ public class Jsb extends JFrame{
     	 JMenuItem b1=new JMenuItem ("新建 (N)");
     	 JMenuItem b5=new JMenuItem ("打开 (O)");
     	 JMenuItem b2=new JMenuItem ("保存 (S)");
-    	 JMenuItem b3=new JMenuItem ("另存为");
+    	 JMenuItem b3=new JMenuItem ("lin存为");
     	 JMenuItem b4=new JMenuItem ("页面设置");
     	 JMenuItem b6=new JMenuItem ("打印");
     	 JMenuItem b7=new JMenuItem ("退出");
